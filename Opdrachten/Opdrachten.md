@@ -16,7 +16,18 @@ dat er een veilige remote-verbinding kan gerealiseerd worden tussen de computer 
 geïnstalleerd op alle apparaten binnen onze school dat ervoor zorgt dat de local admins, in dit geval zijn dat de leerkrachten, om de zoveel tijd een nieuwe wachtwoord moesten aanmaken.
 Dit zorgt voor extra security binnen het systeem. Uiteindelijk heb ik ook gewerkt aan de Cisco-opdracht en heb ik mijn collega's geholpen met het opzetten van de andere vitale onderdelen.
 
-Fragment uit het eindrapport: 
+<object data="./images/FierOpWat.pdf" type="application/pdf"  width="100%" height="600px" style="border: none; margin: 0; padding: 0;">
+    <embed src="./images/FierOpWat.pdf" type="application/pdf" width="100%" height="600px" style="border: none; margin: 0; padding: 0;">
+        <p>Deze browser ondersteunt geen PDF's. Om deze te bekijken: <a href="https://drive.google.com/file/d/1sMZTwhub_dBekHiLbaWqtc9M9Vjw5vZG/view?usp=sharing">Open hier de PDF</a>.</p>
+    </embed>
+</object>
+</object>
+
+Ik heb gekozen voor dit deel uit het opleverleverdocument omdat ik hier fier op ben. Het is namelijk de backup-tool waar ik het over heb.  
+Ik heb Veeam gebruikt voor de backup-tool. Na het downloaden en installeren van de software heb ik verbinding gemaakt met de PXL servers.
+Zo kreeg ik een lijst met alle VM's die we hadden opgezet voor ons project. Nu kon ik beginnen met het maken van backups. 
+Veeam is een zeer gebruikersvriendelijk applicatie wat het nog fijner maakte. Bij het maken van de backup kon ik ook voor andere opties kiezen, 
+zoals het aanzetten van automatische, periodieke updates etc.
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
