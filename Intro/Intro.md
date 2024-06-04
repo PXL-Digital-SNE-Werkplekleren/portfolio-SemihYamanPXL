@@ -5,4 +5,4 @@ wat voor problemen ik ben tegengekomen, hoe ik dezen heb opgelost en uiteindelij
 Het is ook nuttig voor mijn coaches, ze kunnen immers aan de hand van de portfolio een breder zicht krijgen op mijn leerproces
 en hebben ze dus de kans om mij gerichter te begeleiden en ondersteunen.
 # Persoonlijke info
-Intro/CV Semih Yaman 2024.pdf 
+<object data="CV Semih Yaman 2024.pdf " width="1000" height="1000" type="application/pdf"></object>
