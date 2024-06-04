@@ -16,7 +16,11 @@ dat er een veilige remote-verbinding kan gerealiseerd worden tussen de computer 
 geïnstalleerd op alle apparaten binnen onze school dat ervoor zorgt dat de local admins, in dit geval zijn dat de leerkrachten, om de zoveel tijd een nieuwe wachtwoord moesten aanmaken.
 Dit zorgt voor extra security binnen het systeem. Uiteindelijk heb ik ook gewerkt aan de Cisco-opdracht en heb ik mijn collega's geholpen met het opzetten van de andere vitale onderdelen.
 
-
+<object data="./images/Backup-tool FierOpWatSemihY.pdf" type="application/pdf"  width="100%" height="600px" style="border: none; margin: 0; padding: 0;">
+    <embed src="./images/Backup-tool FierOpWatSemihY.pdf" type="application/pdf" width="100%" height="600px" style="border: none; margin: 0; padding: 0;"
+    </embed>
+</object>
+</object>
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
