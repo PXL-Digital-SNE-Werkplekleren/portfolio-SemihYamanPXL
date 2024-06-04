@@ -9,7 +9,7 @@ We hebben, met hulp en begeleiding van onze leerkrachten, onze communicatieprobl
 met elkaar omgaan en dat hielp de groep enorm. Ik vind dus dat ik op vlak van communicatie gevorderd ben. 
 Nog een probleem dat we tegenkwamen was het feit dat we vaak te weinig tijd hadden om alle opdrachten binnen de lesuren af te ronden. We hebben dit opgelost
 door buiten lesuren te werken. Niet iedereen was even bereid om dit te doen, maar persoonlijk heb ik dit altijd wel gedaan en ook dit heeft me veel bijgeleerd over tijdmanagement.
-Uiteindelijk heb ik veel zelf moeten opzoeken over Windows en Linuxsystemen, zodanig veel dat ik heel veel heb bijgeleerd. Ik ben gelukkig dat ik de kans heb gekregen om mijn kennis te mogen verbreden op meerdere vlakken.
+Uiteindelijk heb ik veel zelf moeten opzoeken over Windows- en Linuxsystemen, zodanig veel dat ik heel veel heb bijgeleerd. Ik ben gelukkig dat ik de kans heb gekregen om mijn kennis te mogen verbreden op meerdere vlakken.
 ## Reflectie WPL 3
 
 ## Reflectie WPL 4
