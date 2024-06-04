@@ -30,9 +30,9 @@ Veeam is een zeer gebruikersvriendelijk applicatie wat het nog fijner maakte. Bi
 zoals het aanzetten van automatische, periodieke updates etc.
 
 Powerpoint presentatie: 
-<object data="./images/Presentatie sbc.local.pptx" type="application/pdf"  width="100%" height="600px" style="border: none; margin: 0; padding: 0;">
-    <embed src="./images/Presentatie sbc.local.pptx" type="application/pdf" width="100%" height="600px" style="border: none; margin: 0; padding: 0;">
-        <p>Deze browser ondersteunt geen PDF's. Om deze te bekijken: <a href="https://docs.google.com/presentation/d/1-H4UUtrcddZBkEjKWHTH_Nt-lqyHM9o0/edit?usp=drive_link&ouid=108636419598370660902&rtpof=true&sd=true">Open hier de PDF</a>.</p>
+<object data="./images/Presentatie_sbc_local.pdf" type="application/pdf"  width="100%" height="600px" style="border: none; margin: 0; padding: 0;">
+    <embed src="./images/Presentatie_sbc_local.pdf" type="application/pdf" width="100%" height="600px" style="border: none; margin: 0; padding: 0;">
+        <p>Deze browser ondersteunt geen PDF's. Om deze te bekijken: <a href="https://drive.google.com/file/d/19wHmXXDGoHIOX-FABLWQT48nGsl5tq7k/view?usp=sharing">Open hier de PDF</a>.</p>
     </embed>
 </object>
 </object>
