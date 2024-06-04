@@ -29,7 +29,9 @@ Zo kreeg ik een lijst met alle VM's die we hadden opgezet voor ons project. Nu k
 Veeam is een zeer gebruikersvriendelijk applicatie wat het nog fijner maakte. Bij het maken van de backup kon ik ook voor andere opties kiezen, 
 zoals het aanzetten van automatische, periodieke updates etc.
 
-Powerpoint presentatie: 
+Eindpresentatie: 
+
+
 <object data="./images/Presentatie_sbc_local.pdf" type="application/pdf"  width="100%" height="600px" style="border: none; margin: 0; padding: 0;">
     <embed src="./images/Presentatie_sbc_local.pdf" type="application/pdf" width="100%" height="600px" style="border: none; margin: 0; padding: 0;">
         <p>Deze browser ondersteunt geen PDF's. Om deze te bekijken: <a href="https://drive.google.com/file/d/19wHmXXDGoHIOX-FABLWQT48nGsl5tq7k/view?usp=sharing">Open hier de PDF</a>.</p>
